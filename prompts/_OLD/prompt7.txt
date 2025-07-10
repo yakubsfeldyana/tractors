@@ -1,0 +1,5 @@
+I have a simple static website in directory "website".
+Please change the email on all pages
+   from : mts1@hvc.rr.com
+   to :  mullallytractor@gmail.com
+   

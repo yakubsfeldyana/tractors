@@ -1,0 +1,7 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+The "View Full Details" button on index.html page is left aligned.
+The "Get a Quote" button is center aligned.
+I want them both to be centered, aligned vertically and horizontally.
+This change is only for the index.html
+The alignment of the "Get a Quote" button on other pages should remain as is.

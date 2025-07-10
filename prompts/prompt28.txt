@@ -1,0 +1,6 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+On the john-deere-1025r.html, please center the "Get a Quote" button
+=======================================================
+Please center the "Get a Quote" button on all the other product pages. Please use the styles.css. 
+Remove unnecesary button styling from the individual product pages.

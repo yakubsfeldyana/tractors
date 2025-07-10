@@ -1,0 +1,33 @@
+I have a simple static website in directory "website"
+It uses several html pages. 
+I want to add embedded youtube videos to product pages.
+Currently the pages may have templates for videos.
+
+I want to remove templates - and add actual video.
+Just one video per page.
+
+Here is the list of pages - and for each page 
+I provide a link to one youtube video:
+
+chapman-dt100.html - https://www.youtube.com/watch?v=gjf75jh3eFo
+
+chapman-fm120.html - https://www.youtube.com/watch?v=rZcX81QnrWM
+
+chapman-fm150.html - https://www.youtube.com/watch?v=ACUI7IaktpU
+
+chapman-pc120.html - https://www.youtube.com/watch?v=75f051Ww43A
+
+chapman-pc150.html - https://www.youtube.com/watch?v=nR3Cjqkd6tg
+
+john-deere-1025r.html - https://www.youtube.com/watch?v=0d-LiVVfoJE
+
+john-deere-2025r.html - https://www.youtube.com/watch?v=UEPEfPEvaoU
+
+john-deere-2038r.html - https://www.youtube.com/watch?v=aArgKgr6Xxs
+
+john-deere-3038e.html - https://www.youtube.com/watch?v=0d-LiVVfoJE
+
+john-deere-3039r.html - https://www.youtube.com/watch?v=aArgKgr6Xxs
+
+john-deere-4052m.html - https://www.youtube.com/watch?v=IbYh_nGhwb0
+

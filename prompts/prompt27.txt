@@ -1,0 +1,5 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+On the index.html page, there is a "Get a Quote" button next to each product.
+Place this button on each of the product pages below the images and before Product Description.
+Keep the full fucntionality of the button. 

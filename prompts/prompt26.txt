@@ -1,0 +1,40 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+
+My website is using "access_key" in two files:
+
+contact.html:                <input type="hidden" name="access_key" value="3e038e18-c37e-4900-b114-3d59027e1eab">
+index.html:                    <input type="hidden" name="access_key" value="3e038e18-c37e-4900-b114-3d59027e1eab">
+
+Instead of using this static "access_key", please implement the code below. it will use different keys if the website is run in production or not. Please make sure that the keys are not stored in the HTML pages.
+Here is the code to determine if the website is run in production or not:
+
+const PRODUCTION_KEY = "f24229fe-5b79-457d-8f76-f29bb463d257";
+const DEVELOPMENT_KEY = "3e038e18-c37e-4900-b114-3d59027e1eab";
+
+function getAccessKey() {
+  const { protocol, hostname } = window.location;
+  
+  // Local development (file protocol or localhost)
+  if (protocol === 'file:' || 
+      hostname === 'localhost' || 
+      hostname === '127.0.0.1') {
+    return DEVELOPMENT_KEY;
+  }
+  
+  // Production (hosted service)
+  return PRODUCTION_KEY;
+}
+
+const AccessKey = getAccessKey();
+
+=======================================================
+add to the main page a text indicating which key is in use.
+It will say "Production key" when running in production, and "Dev key" when running not in production.
+Place that text on the buttom of the page.
+
+=======================================================
+on the index.html, please make the "View Full Details" and "Get a Quote" buttons aligned. Please make their width and height the same and do not wrap the text inside them.
+
+=======================================================
+in the index.html, please make the "View Full Details" and "Get a Quote" buttons larger so that the text is fully visible and centered.

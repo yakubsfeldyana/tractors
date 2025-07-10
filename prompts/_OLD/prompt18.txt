@@ -1,0 +1,180 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+I want to add a page "blog.html"
+and add "Blog" entry to all navigation
+(both on desktop view and hamburger manu) right after the "About" and before tractors
+
+blog.html should have the same top navigation and bottom footer as other pages. 
+And it should use the same styles.
+
+The page content should have 6 blog entries - text and images.
+
+Images are in the directory "images" starting with "blog_" in the name
+of the image file.
+
+Below I provide content for 6 blog entries 
+to be placed on blog.html
+
+I provide them in order they should go on the page.
+And here I separate them by horizontal separators for clarity.
+
+For each blog entry please use one or two images
+
+=======================================================
+
+Excavator Safety Guide
+Jul. 26 2024
+
+It's no wonder why excavators are found on thousands of farms and construction sites around the world. Excavators are powerful yet versatile, making them a useful tool in a variety of different circumstances. However, like all tools, there is the potential for harm if these vehicles are misused. That's why the experts at Mullally Tractor Sales have created this excavator safety guide.
+
+Before Operation
+Even before you actually start the excavator itself, there are several things that you can do to ensure safe operation. Even doing something as simple as cleaning and readjusting the excavator's mirrors can help make things safer. As with all heavy equipment, an excavator should undergo a safety inspection before each usage. If there are any underground utility lines or other structures that should be avoided, the operator needs to be made aware of them. If you're not sure where these underground structures are, have the local utility company mark them for you. Beyond that, the excavator operator should follow basic safety procedures such as wearing a seatbelt at all times. 
+
+During Operation
+When the time comes to actually operate the excavator, it's important that a few key safety rules are observed. For example, no one should be allowed to ride in the excavator's bucket or in the cab without a seatbelt. The operator should stay aware of their surroundings at all times. If they notice obstacles, people, animals, or rough terrain in the way, the operator should move slower until they have maneuvered around the hazard. Speaking of rough terrain, the excavator operator should stick to flat and even ground whenever possible. Finally, it's important to keep the excavator's bucket low when transporting materials or tackling slopes. Never attempt to dig under the excavator itself. 
+
+After Operation
+It's safest to park an excavator on level ground with the bucket lowered. If the operator is done using the excavator for the day, it's recommended that they turn off the auto-idle switch and run the engine at half throttle for a few minutes. This will give the turbocharger a chance to cool down. Once the turbocharger has cooled, the operator should set the ROM to low idle and shut off the engine. Don't forget to lock the equipment up for the night!
+
+Shop excavators at Mullally Tractor Sales Inc. in Jeffersonville, New York. We're proud to serve regions like Ulster and Delaware County, New York, as well as Wayne County, Pennsylvania. We also have parts, servicing, and financing. We hope you'll come to visit us soon!
+
+=======================================================
+
+Benefits of Buying a Used Lawn Mower
+Jul. 24 2024
+Used Lawn Mower Buying Guide 
+
+Buying a used lawn mower makes it easy to find a quality model for an affordable price. The used lawn mower market is full of great models with a lot of life left in them. If you're interested in learning more about the benefits of buying a used lawn mower, check out this guide from Mullally Tractor Sales Inc.
+
+Save Money
+The most obvious benefit of buying a used lawn mower is the price. Used lawn mowers cost less than new ones due to depreciation. If you need a lawn mower but you're on a tight budget, buying used is probably your best bet. 
+
+Durable Construction
+One concern that many potential used lawn mower buyers have is that the used mower won't last as long as a new model. While this is true to an extent, lawn mowers are generally built to be durable and long-lasting. Many used lawn mowers are still in fairly good condition and have years of service left in them. If you inspect the used lawn mower to check for potential mechanical issues and take a close look at the maintenance history, you won't be taken off guard by unforeseen maintenance issues. 
+
+Explore More Choices
+Another advantage of purchasing a used lawn mower is that buying a used mower makes exploring your options easier. This is partially due to the lower sticker price, which means there's a lower barrier to entry. You don't have to risk as much if you decide to try out a model that's a bit different from what you usually use. Since used mowers depreciate slower than new ones, you'll also be able to recoup more of your investment if you decide that the model you purchase isn't for you. 
+
+Shop used mowers at Mullally Tractor Sales Inc. in Jeffersonville, New York. We're proud to serve regions like Ulster and Delaware County, New York, as well as Wayne County, Pennsylvania. We also have parts, servicing, and financing. We hope you'll come to visit us soon!
+
+=======================================================
+
+How to Choose the Right Compact Tractor
+Jun. 28 2024
+Buying Guide
+
+Compact tractors are versatile and powerful machines that can be used for a variety of tasks, from tilling and landscaping to plowing and hauling. If you're in the market for a compact tractor, it's essential to do your research and make an informed decision. Below, we've provided valuable tips and advice for buying the perfect compact tractor to suit your needs.
+
+Assess Your Requirements
+When buying a compact tractor, the first step is to figure out your needs and. Consider the tasks you need the tractor to perform, the size of your property, and any specific attachments or implements you may need. This will help you narrow down your options and choose a tractor that is best suited for your unique needs.
+
+Do Your Research
+There are various brands and models of compact tractors available on the market, each offering different features and capabilities. Take the time to research and compare different brands and models to find the one that offers the best combination of performance, durability, and value for money. Reading reviews and seeking recommendations from other tractor owners can also be helpful in making an informed decision.
+
+Consider the Attachments and Implements
+Compact tractors are often used with a variety of attachments and implements, such as loaders, mowers, and backhoes. When purchasing a compact tractor, consider the availability and compatibility of attachments and implements that you may need in the future. It's essential to choose a tractor that can accommodate the attachments required for your intended tasks.
+
+Evaluate the Performance
+The performance and maneuverability of a compact tractor are crucial factors to consider. Look for a tractor that offers sufficient horsepower, hydraulic capacity, and traction to handle your specific tasks. Additionally, consider the turning radius and overall maneuverability, especially if you have limited space or obstacles on your property.
+
+Stop by Mullally Tractor Sales Inc. in Jeffersonville, NY, to check out our current stock of compact tractors for sale. We welcome all our patrons coming from Ulster County and Delaware County, NY, and Wayne County, PA.
+
+=======================================================
+
+The Benefits of Buying a Compact Tractor
+Jun. 27 2024
+Buying Guide
+
+Compact tractors are versatile and powerful machines that have become increasingly popular among agricultural professionals, homeowners, and small landowners. These small workhorses offer a wide range of benefits that make them a great investment for anyone with farming or landscaping needs. In this blog post, we will explore the various advantages of buying a compact tractor and why it can be a valuable addition to your equipment lineup.
+
+Versatility and Maneuverability
+One of the primary benefits of owning a compact tractor is its versatility and maneuverability. These machines are designed to be highly adaptable, allowing you to perform a wide variety of tasks with different attachments. Whether you need to prepare your farm, plow snow, dig trenches, or move heavy materials, a compact tractor can handle it all. Additionally, their small size and tight turning radius make them easy to maneuver in tight spaces, making them ideal for small acreages and residential areas.
+
+Efficiency
+Compact tractors are designed to help you complete tasks more efficiently, saving you time and labor. With the right attachments, you can quickly switch from one task to another, eliminating the need for multiple pieces of equipment. For example, a compact tractor equipped with a loader can transport materials, level ground, and perform grading operations, all without the need for manual labor or additional equipment. This efficiency can significantly reduce the time and effort required to maintain your property or complete landscaping projects.
+
+Cost-Effectiveness
+Despite their small size, compact tractors are robust machines that offer significant cost-effectiveness. Unlike larger models, compact tractors are affordable to purchase and operate, making them accessible to a wide range of users. Plus, their fuel efficiency and low maintenance requirements contribute to long-term cost savings, making them a smart investment for budget-conscious individuals and businesses.
+
+When you're ready to browse our selection of compact tractors for sale, visit Mullally Tractor Sales Inc. in Jeffersonville, New York. We proudly serve all our customers in Ulster County and Delaware County, New York, as well as Wayne County, Pennsylvania.
+
+=======================================================
+
+How to Increase Mower Service Life
+May. 2 2024
+Maintenance
+
+On average, lawnmowers are expected to last for at least 6 to 10 years even with heavy-duty use and wear. However, to get the full length of your model's service life, you'll need to stay on top of its general maintenance and upkeep. For tips on how to ensure your mower stays in working condition for years to come, check out our article below.
+
+Sharpen The Blade
+Your mower's blade is one of its most important components. A sharp blade will allow your mower to run smoothly, cut efficiently, and save you a lot of wear and tear on your equipment. However, lawn mower blades will go dull much sooner than you realize. You'll want to sharpen your blade every 20 to 25 hours or mow time and replace it completely annually.
+
+Perform an Oil Change
+Just like any other piece of equipment, your lawn mower will need to have its oil changed regularly to keep the engine from getting gummed up and ensure your machinery runs smoothly. This should be done twice a year or after 50 hours of service time.
+
+Clean Your Mower
+To keep dirt and debris from building up on your mower and corroding important components, be sure to give your model a good scrub every 6 months or so. However, don't forget to give your model a quick rinse in between each mow as well, making sure to rinse away grass and dirt from the blades. Afterward, make sure your mower has dried completely before placing it away in your shed or garage. 
+
+To shop quality mower parts and components, or have your model cared for by a professional, visit us here at Mullally Tractor Sales. We offer a convenient location nearby in Jeffersonville, NY, and look forward to serving the broader community—including those in Ulster County, NY, Delaware County, NY, and Wayne County, PA.
+
+=======================================================
+
+Tips For Financing a New Tractor
+Apr. 24 2024 
+Tractor Loans & Financing
+
+Tractors are important pieces of machinery, and most buyers need to get their hands on their model fast. However, saving up for a tractor can take months on end, and not everyone has the time to spare to save up and pay out of pocket. That's why we recommend taking advantage of our helpful financing services here at Mullally Tractor Sales Inc. For tips on how to finance a tractor and ensure you get a great loan, just check out our article below! 
+
+Budget 
+It's incredibly important that you set a firm budget for your upcoming tractor purchase to ensure you don't fall into debt you can't get out of. To ensure you're not overspending—even with the help of a loan—be sure to look at both up-front and long-term costs for your upcoming purchase. We also recommend looking up a financing calculator to help you figure out how much you can afford each month toward your loan payments.
+
+Prep 
+To ensure you get the best loan available for your new tractor you'll need to take some time to prep your finances for your upcoming purchase. To start, we recommend raising up your credit score as much as possible by using and paying off credit cards on time, as well as seeing if you can remove any old paid-off debts from your report. You'll also need to start saving up for a down payment for your tractor. Generally speaking, the higher your down payment is, the better your loan offer will be. 
+
+For more information and tips on financing a new tractor, feel free to stop by Mullally Tractor Sales Inc. here in Jeffersonville, NY! Our expert financing staff will be happy to answer any questions you may have, as well as walk you through your financing application, and we're always happy to serve those nearby in Ulster and Delaware County, NY, and Wayne County, PA.
+
+=======================================================
+
+Utility Tractor Benefits
+Mar. 29 2024
+Buying Guide
+
+Utility tractors are perfect for smaller farms that don't need a full-sized tractor but would still benefit from the power and versatility that a tractor brings. If you operate a smaller farming operation and you think a utility tractor might be for you, this guide from Mullally Tractor Sales Inc. has more information about the benefits of owning a utility tractor. 
+
+A Useful Middle Ground
+Farm tractors are designed for maximum towing power. Even smaller models tend to be very big and bulky, which can be a hassle when it comes to storage, maintenance, and other such concerns. This is especially true on smaller properties where the power of a full-sized tractor might not even be needed. Compare that to garden or lawn tractors, which are a lot smaller but are also much less powerful and might not be able to handle the needs of a smaller farming operation. Utility tractors are in-between farm tractors and garden tractors in terms of both size and power. In other words, they're easier to store than a farm tractor but are capable of doing more work than a garden tractor.
+
+Affordable
+Smaller tractors require less materials to build than larger ones, which is why utility tractors are cheaper than farm tractors. They also tend to be a lot more fuel efficient and easy to maintain. These factors make utility tractors ideal for farmers on a tight budget. 
+
+Adaptable
+Most utility tractors are compatible with a variety of different attachments and implements, much like farm tractors. This allows utility tractors to fulfill a variety of different roles around the farm. This adaptability is another reason why utility tractors are so economical. 
+
+Shop utility tractors at Mullally Tractor Sales Inc. in Jeffersonville, New York. We're proud to serve regions like Ulster and Delaware County, New York, as well as Wayne County, Pennsylvania. We also have parts, servicing, and financing. 
+
+=======================================================
+
+Should You Rent or Buy Your Farm Equipment?
+Nov. 16 2023
+Benefits Of Farm Equipment Rentals 
+When To Rent Farm Equipment
+
+In need of some durable farm equipment to help out around your property? Then you may be considering renting your equipment rather than buying it. While both options have their advantages, some buyers will benefit from rental options more than others. To ensure you're making the right choice for your farm, we recommend reading through our helpful advice below. 
+
+When to Rent Your Farm Equipment 
+The length of time and the frequency with which you would use a piece of farm equipment are the most important factors to consider when deciding whether or not to rent machinery. If you plan to use your equipment very infrequently—even if you're using it for a months-long project—it's likely more affordable to rent a model rather than purchase one. While the rental payments will add up over time, they're unlikely to reach the same price as the model's sales tag, and you have the added benefit of being off the hook for long-term expenses—such as maintenance and insurance fees. 
+
+When to Buy Your Farm Equipment 
+ While rental fees are unlikely to add up to a model's total sticker price, you also don't want to pour too much of your money into a machine you'll never own. If you're renting a piece of farm equipment more than 3 times a year—even for short periods of time—it's likely more cost-effective to simply purchase a model of your own than continuously pay to rent out the model whenever you need it. 
+
+Whether you're looking to buy or rent your next piece of farm equipment, we encourage you to shop with us here at Mullally Tractor Sales! Our location here in Jeffersonville, NY offers an enormous collection of top-quality models available for you to purchase or rent, and we proudly serve the nearby regions of Ulster County, NY, Delaware County, NY, and Wayne County, PA.
+
+=======================================================
+=======================================================
+=======================================================
+=======================================================
+=======================================================
+=======================================================
+=======================================================
+
+When I start the website using test_server.py - I can see the "Blog" in the menu. But when I start it by double-clicking on index.html - I don't see "Blog" in the navigation

@@ -1,0 +1,40 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+
+The top of the pages uses the same header and menu.
+Please do the following changes to the header and menu.
+
+Please remove green background.
+Make font green and background white
+
+The menu items (Home, About, ...) - make them look as simple underlined links
+
+When the screen becomes narrow - please change the menu to a hamburger-style menu.
+
+Please always load the menu (normal or hamburger) 
+by invoking javascript function at the top of the body of the page.
+===============================================
+I can now see the hamburger - but when I click on it - nothing happens. 
+It is not responding. 
+
+Also the hamburger should be at the very top of the window. 
+Above the header (or at the same level - but at the side).
+
+Also the page fonts of the header are too big and 
+vertical spacing between lines is too big too. Please "Compress" them.
+===============================================
+The hamburger menu now works! This is good.
+And I see that you have made the top header smaller.
+But the hamburger menu is still below the header, which is not right.
+The hamburger menu should be above everything else when it appears
+===============================================
+Please decrease the line spacing in navigation menus,
+in normal and in narrow screens. 
+Compress them vertically as much as possible
+===============================================
+It is better now. But please decrease the vertical 
+spacing between navigation items even further. 
+Also in the main content of all pages please decrease 
+the size of headers and please decrease the vertical 
+spacing between lines and around headers.
+===============================================

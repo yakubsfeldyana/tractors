@@ -1,0 +1,4 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+Place the  following line:  "NY, USA  ph:(845) 482-5222" under the top blue bar. 
+Use the same small font that is used for navigation. Do this change on the all pages.

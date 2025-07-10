@@ -1,0 +1,50 @@
+I want to create a static website.
+I have registered domain:  tractors-mowers.com
+The site will present this business:
+
+Mullally Tractor Sales
+4510 State Route 52
+Jeffersonville, NY 12748
+Phone: (845) 482-5222
+Email: mts1@hvc.rr.com
+
+The website should be static and very simple.
+All images should be in "images" directory.
+Home page is index.html
+All styles should be in one styles.css file.
+We should about.html page.
+And a lot of product pages named after specific products.
+
+All pages should have the same simple header menu for navigation. No javascript. no hamburger menu.
+The top navigation can be simply several links like this:
+
+Home
+About
+Product1
+Product2
+...
+
+The home page should have a vertical list of products/services. Each listing should contain a small image and a title. Clicking on image/title should open a detailed page for this product or service. 
+
+Adding product to the website is easy. Add a page and add a listing on the home page.
+
+Each detailed page should have the same navigation menu at the top as the home page.
+
+The website should NOT use node.js or any other server-side scripting. And no client-side javascript.
+
+The website should only use html and css.
+
+We will start with 2 product pages:
+   ATV Flail Mower 
+   https://chapmanmachinery.com/flail-mowers/
+
+   John Deere Sub-compact tractor 1025R
+   https://www.deere.com/en/tractors/compact-tractors/1-series-sub-compact-tractors/1025r/
+
+Each page should contain:
+   Model name
+   short description/specs
+   one or more images
+   one or more youtube videos
+   price
+   how to order info (call/email)

@@ -1,0 +1,15 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+
+You have updated the top navigation
+to look differently when running the site locally
+by double-clicking on the index.html.
+
+But when I upload the site to cloudflare pages,
+it still shows old green design, it doesn't work correctly. It still shows green background header and navigation items. It still has big vertical distance beteween lines. etc. And the hamburger menu shows - but doesn't work.
+
+I am attaching screen shots of the same site on cloudflare pages - and locally.
+
+Please fix it so that on cloudflare it looks the same as locally. 
+
+Please provide a way to test it before uploading to cloudflare

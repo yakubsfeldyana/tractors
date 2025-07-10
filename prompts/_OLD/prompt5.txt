@@ -1,0 +1,12 @@
+I have a simple static website in directory "website".
+It currently uses only html and css.
+It also uses javascript to load navigation at the top of pages.
+But this navigation is not loaded if I open the site locally by simply double-clicking on index.html. This is because of CORS (Cross-Origin Resource Sharing) restrictions.
+
+Please implement the following solution: JavaScript Template with Fallback
+
+- Keep the current fetch approach but add a fallback
+- If fetch fails, inject the navigation HTML directly via JavaScript
+- This maintains the single-source navigation while ensuring local compatibility
+- Pros: Works both locally and on servers, single navigation source
+- Cons: Slightly more complex JavaScript

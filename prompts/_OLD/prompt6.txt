@@ -1,0 +1,10 @@
+I have a simple static website in directory "website".
+It currently uses only html and css.
+It also uses javascript to load navigation at the top of pages.
+But this javascript is invoked only at the end of the html page.
+This causes blinking at the laod time.
+First the page is loaded without navigation,
+then all content is loaded, and only then the navigation is loaded at the top.
+
+Please move the navigation loading to the very top of the html body
+in all content pages.

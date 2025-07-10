@@ -1,0 +1,73 @@
+I have a simple static website in directory "website".
+Please make the following change: add more products
+
+currently the website has 3 products:
+
+ - ATV Flail Mower
+ - John Deere 1025r
+ - John Deere 2025r
+
+I need instead the following 11 products listed below
+along with manufactures websites links:
+
+John Deere tractors:
+
+John Deere 1025R
+https://www.deere.com/en/tractors/compact-tractors/1-series-sub-compact-tractors/1025r/
+
+John Deere 2025R
+https://www.deere.com/en/tractors/compact-tractors/2-series-compact-tractors/2025r/
+
+John Deere 2038R
+https://www.deere.com/en/tractors/compact-tractors/2-series-compact-tractors/2038r/
+
+John Deere 3038E
+https://www.deere.com/en/tractors/compact-tractors/3-series-compact-tractors/3038e/
+
+John Deere 3039R
+https://www.deere.com/en/tractors/compact-tractors/3-series-compact-tractors/3039r/
+
+John Deere 4052M
+https://www.deere.com/en/tractors/compact-tractors/4-series-compact-tractors/4052m/
+
+Chapman Machinery:
+
+Chapman FM120 flail mower
+Chapman FM150 flail mower
+https://chapmanmachinery.com/products/machinery/fm-series-atv-flail-mower/
+
+Chapman DT100 Hydraulic Dump Trailer
+https://chapmanmachinery.com/products/machinery/dt100-hydraulic-dump-trailer/
+
+Chapman PC120 Power Collector
+Chapman PC150 Power Collector
+https://chapmanmachinery.com/products/machinery/pc-series-power-collector/
+
+For each product we should have a separate html product page
+containing information about the product:
+Name, short description, 3 images and a 2-3 embedded videos
+
+All pages should have the same header.
+The top menu should list all pages for navigation.
+
+No javascript. 
+No hamburger menu.
+
+The top navigation should be simply 
+a list of several links like this:
+
+ - Home
+ - About
+ - Product 1
+ - Product 2
+ - etc.
+ 
+Also on the home page the listing of products should ve vertical. 
+All products should go one under another
+
+Each product should be in a frame containing an image and a title and short description
+Clicking on it should switch to corresponding product page.
+
+
+
+

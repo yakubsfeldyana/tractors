@@ -1,0 +1,23 @@
+I have a simple static website in directory "website"
+It uses several html pages. 
+On some of product pages there is pricing.
+Please remove the actual prices from the website.
+
+So for example for page 
+
+     john-deere-1025r.html we have:
+
+change this:
+
+Pricing
+Base Model: Starting at $16,500
+With H120 Loader: Starting at $19,800
+Complete packages with mower deck available
+Call for current pricing, financing options, and package deals
+
+to simply this:
+
+Complete packages with mower deck available
+Call for current pricing, financing options, and package deals
+
+And please do similar changes on all product pages.

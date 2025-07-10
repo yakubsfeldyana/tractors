@@ -1,0 +1,37 @@
+I have a simple static website in directory "website"
+It uses several html pages. They need images.
+We need to add images into subdirectory "images".
+The images may come from manufactures web pages:
+
+John Deere 1025R
+https://www.deere.com/en/tractors/compact-tractors/1-series-sub-compact-tractors/1025r/
+
+John Deere 2025R
+https://www.deere.com/en/tractors/compact-tractors/2-series-compact-tractors/2025r/
+
+John Deere 2038R
+https://www.deere.com/en/tractors/compact-tractors/2-series-compact-tractors/2038r/
+
+John Deere 3038E
+https://www.deere.com/en/tractors/compact-tractors/3-series-compact-tractors/3038e/
+
+John Deere 3039R
+https://www.deere.com/en/tractors/compact-tractors/3-series-compact-tractors/3039r/
+
+John Deere 4052M
+https://www.deere.com/en/tractors/compact-tractors/4-series-compact-tractors/4052m/
+
+Chapman FM120 flail mower
+Chapman FM150 flail mower
+https://chapmanmachinery.com/products/machinery/fm-series-atv-flail-mower/
+
+Chapman DT100 Hydraulic Dump Trailer
+https://chapmanmachinery.com/products/machinery/dt100-hydraulic-dump-trailer/
+
+Chapman PC120 Power Collector
+Chapman PC150 Power Collector
+https://chapmanmachinery.com/products/machinery/pc-series-power-collector/
+
+Please write a python script to download images from these pages - and put them
+into subdirectory "website/images".
+Please name those images to correspond to the names of the product html pages

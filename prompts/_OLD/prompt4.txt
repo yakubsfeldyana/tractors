@@ -1,0 +1,36 @@
+I have a simple static website in directory "website".
+It currently uses only html and css, no javascript. 
+Each html page has a navigation menu at the top.
+This navigation is similar in all pages.
+I want to separate this navigation into a separate file.
+And then load it into each html page using a simple javascript loader.
+
+So please put the navigation into a separate html page "navigation.html"
+Then create a separate javascript file nav_loader.js
+with a function similar to this:
+
+async function loadNavigation() {
+    try {
+        const response = await fetch('navigation.html');
+        const html = await response.text();
+        document.getElementById('navigation').innerHTML = html;
+        
+        // Highlight current page
+        const currentPage = window.location.pathname.split('/').pop();
+        const currentLink = document.querySelector(`a[href="${currentPage}"]`);
+        if (currentLink) {
+            currentLink.classList.add('active');
+        }
+    } catch (error) {
+        console.error('Error loading navigation:', error);
+    }
+}
+
+And then in each content page do the following:
+
+<div id="navigation"></div>
+
+<script src="nav_loader.js"></script>
+<script>
+    loadComponent('navigation', 'navigation.html');
+</script>

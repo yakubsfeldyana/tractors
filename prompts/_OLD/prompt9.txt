@@ -1,0 +1,25 @@
+I have a simple static website in directory "website"
+It uses several html pages. They need images.
+I have put images in subdirectory "website/images"
+For each product page I put 3 or 4 images.
+We need to add them to corrersponding html product page.
+
+For example, for John Deere 1025R we have 4 images:
+
+john-deere-1025r-1.jpg
+john-deere-1025r-2.jpg
+john-deere-1025r-3.jpg
+john-deere-1025r-4.jpg
+
+We need to add them to page
+
+john-deere-1025r.html
+
+Also the 1st image should be used on the home page
+where we list all products.
+
+Please add images to all product pages and the home page.
+
+When adding images into html please specify the size
+of the image on the page. This size may be different 
+that that of actual image - this is OK.

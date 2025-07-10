@@ -1,0 +1,33 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+In drectory "website/images" I have added 12 images
+for "about.html" page. Their name starts with mts:
+mts-01 ... mts-12
+
+Please add these images to the about.html page.
+=======================================================
+I have a simple static website in directory "website"
+It uses several html pages.
+Please add links to facebook and instagram to the "About" page
+
+https://www.facebook.com/MullallyTractor/
+
+https://www.instagram.com/mullally_tractor_sales/
+
+=======================================================
+Good. 
+Please add the "Follow Us" section  for Facebook and Instagram on all pages
+=======================================================
+I have a simple static website in directory "website"
+It uses several html pages.
+
+Add these links to facebook photos and videos 
+at the bottom of the "About" page
+
+https://www.facebook.com/MullallyTractor/photos
+
+https://www.facebook.com/MullallyTractor/videos
+
+=======================================================
+Add the link to the blog:
+https://www.mullallytractorsales.com/blog

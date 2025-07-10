@@ -1,0 +1,38 @@
+<div class="header-content">
+    <button class="nav-toggle" onclick="toggleMenu()">☰</button>
+    <div class="business-info">
+        <h1>Mullally Tractor Sales</h1>
+    </div>
+</div>
+<div class="header-contact-info">
+    NY, USA  ph:(845) 482-5222
+</div>
+<nav>
+    <ul id="nav-menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="john-deere-1025r.html">John Deere 1025R</a></li>
+        <li><a href="john-deere-2025r.html">John Deere 2025R</a></li>
+        <li><a href="john-deere-2038r.html">John Deere 2038R</a></li>
+        <li><a href="john-deere-3038e.html">John Deere 3038E</a></li>
+        <li><a href="john-deere-3039r.html">John Deere 3039R</a></li>
+        <li><a href="john-deere-4052m.html">John Deere 4052M</a></li>
+        <li><a href="chapman-fm120.html">Chapman FM120</a></li>
+        <li><a href="chapman-fm150.html">Chapman FM150</a></li>
+        <li><a href="chapman-dt100.html">Chapman DT100</a></li>
+        <li><a href="chapman-pc120.html">Chapman PC120</a></li>
+        <li><a href="chapman-pc150.html">Chapman PC150</a></li>
+    </ul>
+</nav>
+
+<script>
+// Define the toggle function globally
+window.toggleMenu = function() {
+    const menu = document.getElementById('nav-menu');
+    if (menu) {
+        menu.classList.toggle('show');
+    }
+}
+</script>

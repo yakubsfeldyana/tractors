@@ -1,0 +1,14 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+The page contact.html has a contact form. When the form is submitted, the message is delivered. However,  the form shows error. 
+Find out what makes this error message appear. Fix it please.
+=======================================================
+When the contact form is tested using test_server.py local host, it works correctly.
+When we open the website by doubleclicking on index.html, the message is not delivered.
+Please fix.
+=======================================================
+Now the form gets submitted but we have 2 problems.
+1. the browser goes to this url: https://web3forms.com/success
+we don't want the form to open this URL on submit, we want to remain on the contact form page.
+2. We recieve duplicate emails. When we test by doubleclicking index.html or by running test_server.py, either way we recieve 2 identical emails. 
+Please fix so that we recieve only one email per submission and remain on the contact form page.

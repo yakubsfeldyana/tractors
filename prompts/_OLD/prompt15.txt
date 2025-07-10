@@ -1,0 +1,53 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+On top of each page we have a header
+containing business name, address, and phone and email.
+Like this:
+
+Mullally Tractor Sales
+4510 State Route 52, Jeffersonville, NY 12748
+Phone: (845) 482-5222 | Email: mullallytractor@gmail.com
+
+Please remove the address and phoen/email from the header.
+They are not needed at the top, because they are provided at the bottom of all pages.
+
+So at the top we should have only company name:
+
+Mullally Tractor Sales
+
+Please make a blue horizontal band at the top,
+and put company name in it in white font.
+Make this font different from the font used in the
+body of the pages.
+====================================================
+Please change the font of the header.
+Try this:
+
+font-family: "Arial, sans-serif"; 
+font-weight: 600;
+====================================================
+Please change the width of the menu which appears when i click on the hamburger icon.
+Currently it takes the whole width of the screen.
+Make it take only the width necessary to show the menu.
+If the hamburger icon on the right - then the menu should
+only appear on the right.
+====================================================
+When I open the website locally by double-clicking on index.html,
+I still see the address and emal/phone lines in the header.
+Please remove these lines from the header
+====================================================
+On the bottom of pages we have a banner with text
+
+   © 2025 Mullally Tractor Sales. All rights reserved.
+
+Please change the background color of this banner from green to the blue.
+Use the same blue we use for the banner at the top.
+
+Also in the middle of some content pages we have banners with white font
+on dark green background. Please change this background to the same
+blue as the header banner
+====================================================
+Attached is the screen shot of the top of the page on my mobile phone.
+You can see that the hamburger icon is pressed to the bottom of the top blue banner. 
+Can you please vertically align it to be in the center (between top and bottom of the banner).
+====================================================

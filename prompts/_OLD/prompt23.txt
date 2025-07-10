@@ -1,0 +1,18 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+The homepage index.html lists multiple products and each product has a separate product page.
+There are 6 tractors and 5 chapman machines. Tractors are listed from the smallest to the biggest one.
+I also have compare.html page which lists the same 6 tractors in the same order, but has textual descriptions explaining the differences between the models.
+I want these decsriptions from compare.html to be copied to the homepage to the corresponding tractors and the compare.html page then can be removed from the navigation.
+The website can be envoked by doubleclicking on index.html or by using test_server.py
+Please check that the navigation is fixed for both cases.
+==========================================================
+On the compare.html, there is a "View Full Details" button for each of the tractors.
+Please add these buttons to the homepage to all the products (tractors and chapman)
+Clicking on this button should take the user to the corresponding product page.
+=======================================================
+plesae make the text on the  "View Full Details" buttons white.
+==========================================================
+when I test using test_server.py I see the compare.html is not in the navigation.
+But when I test by double-clicking index.html the compare.html is still in the navigation.
+Please remove it from the navigation and please remove the compare.html file. 

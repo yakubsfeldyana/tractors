@@ -1,0 +1,10 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+
+Please add store location and working hours
+at the bottom of all pages like this:
+
+Phone: (845) 482-5222
+Email: mullallytractor@gmail.com
+Address: 4510 State Route 52, Jeffersonville, NY 12748
+Store Hours: Mon-Fri 8am-5pm, Sat 8am-12pm, Sun closed

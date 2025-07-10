@@ -1,0 +1,26 @@
+I have a simple static website in directory "website".
+Please make the following changes:
+add one more page:
+    john-deere-2025r.html
+It should contain information about John Deere 2025r tractor
+
+Change the layout of the top menu on all pages.
+All pages should have the same simple header 
+menu for navigation. 
+No javascript. 
+No hamburger menu.
+
+The top navigation should be simply 
+a list of several links like this:
+
+ - Home
+ - About
+ - ATV Flail Mower
+ - John Deere 1025r
+ - John Deere 2025r
+
+ Also on the hope page the listing of products should ve vertical. All 3 products should go one under another
+
+ Each product should be a frame containing an image and a title and short description
+
+

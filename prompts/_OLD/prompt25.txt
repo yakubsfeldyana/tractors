@@ -1,0 +1,7 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+
+on the homepage index.html, there are "View Full Details" buttons next to each product.
+Please place "Get a Quote" button to the right of each  "View Full Details" button.
+When user clicks on "Get a Quote" button, the contact form should appear in this page (in a separate div).
+The contact form should have the same functionality as contact.html but it also should have a hidden field with the product name in it.  This hidden field should be also passed in the email. Also, the form should have the name of the product at the top of the div.

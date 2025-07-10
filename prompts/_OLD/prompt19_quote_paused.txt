@@ -1,0 +1,24 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+
+
+https://www.mullallytractorsales.com/default.asp?page=xPreOwnedInventory
+
+
+Get a Quote
+
+Asterisk indicates Required Field
+
+New  or Used
+
+First Name *
+Last Name *
+Email *
+Phone
+Address
+City
+State
+Zip Code
+Comments/questions
+{Submit}
+

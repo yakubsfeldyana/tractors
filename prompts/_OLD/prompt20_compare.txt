@@ -1,0 +1,10 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+I want you to create a new page called "compare".
+On this page, I want to compare the 6 tractors on the home page. Here is the information
+John Deere Compact Tractor Size Comparison
+Here is the file with the summary of how each John Deere tractor model differs from the previous, smaller model in the list, with all the links @~/Users/yanayakubsfeld/docs/202507_tractors
+Add the images to each, the images are located here: @~/Users/yanayakubsfeld/docs/202507_tractors/website/images
+
+Add the page to navigation
+

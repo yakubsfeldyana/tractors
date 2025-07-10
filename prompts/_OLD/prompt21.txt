@@ -1,0 +1,6 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+One of the pages is called "compare".
+Please add this page to nav_loader.js
+
+

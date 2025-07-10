@@ -1,0 +1,7 @@
+I have a simple static website in directory "website"
+It uses several html pages.
+Create a contact form that would ask user to sumbit name, last name, phone number and email and a question. Make the name and email and question fields mandatory.
+Use web3forms to build the form.
+Have the email go to yakubsfeld.yana@gmail.com
+The key is 3e038e18-c37e-4900-b114-3d59027e1eab
+Add this contact page to navigation and nav_load.js

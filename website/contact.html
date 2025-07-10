@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Mullally Tractor Sales</title>
+    <link rel="stylesheet" href="styles.css?v=2025070412">
+    <script src="access_key.js?v=2025070412"></script>
+    <style>
+        /* Contact Form Styles */
+        .contact-form-container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 30px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .contact-form-container h1 {
+            font-size: 2em;
+            color: #2c5530;
+            margin-bottom: 20px;
+            text-align: center;
+            line-height: 1.2;
+        }
+
+        .contact-form-container p {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            line-height: 1.4;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            color: #2c5530;
+            font-weight: bold;
+            margin-bottom: 5px;
+            font-size: 0.95em;
+        }
+
+        .form-group label .required {
+            color: #d9534f;
+            font-weight: normal;
+        }
+
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1em;
+            font-family: Arial, sans-serif;
+            transition: border-color 0.3s;
+        }
+
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #2c5530;
+        }
+
+        .form-group textarea {
+            resize: vertical;
+            min-height: 120px;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .submit-button {
+            background-color: #1e4d8b;
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 4px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            display: block;
+            margin: 30px auto 0;
+        }
+
+        .submit-button:hover {
+            background-color: #2c5530;
+        }
+
+        .submit-button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+
+        .form-message {
+            text-align: center;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 4px;
+            display: none;
+        }
+
+        .form-message.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+
+        .form-message.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+
+        @media (max-width: 768px) {
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+
+            .contact-form-container {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div id="navigation"></div>
+        <script src="nav_loader.js?v=2025070412"></script>
+        <script>
+            // Load navigation after script is loaded
+            if (typeof loadNavigation === 'function') {
+                loadNavigation();
+            } else {
+                // Fallback if script hasn't loaded yet
+                window.addEventListener('load', function() {
+                    if (typeof loadNavigation === 'function') {
+                        loadNavigation();
+                    }
+                });
+            }
+        </script>
+    </header>
+
+    <main>
+        <div class="contact-form-container">
+            <h1>Contact Us</h1>
+            <p>Have questions about our tractors or equipment? Fill out the form below and we'll get back to you as soon as possible.</p>
+            
+            <form id="contactForm" action="https://api.web3forms.com/submit" method="POST">
+                <!-- Web3Forms Access Key - Set dynamically by access_key.js -->
+                <input type="hidden" name="access_key" value="">
+                
+                <!-- Remove redirect to stay on same page -->
+                <input type="hidden" name="subject" value="New Contact Form Submission - Mullally Tractor Sales">
+                <input type="hidden" name="from_name" value="Mullally Tractor Sales Website">
+                
+                <!-- Form Fields -->
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="firstName">First Name <span class="required">*</span></label>
+                        <input type="text" id="firstName" name="first_name" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="lastName">Last Name</label>
+                        <input type="text" id="lastName" name="last_name">
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="email">Email <span class="required">*</span></label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="phone">Phone Number</label>
+                        <input type="tel" id="phone" name="phone">
+                    </div>
+                </div>
+                
+                <div class="form-group">
+                    <label for="question">Your Question <span class="required">*</span></label>
+                    <textarea id="question" name="message" required placeholder="Please tell us how we can help you..."></textarea>
+                </div>
+                
+                <!-- Honeypot Spam Protection -->
+                <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
+                
+                <!-- Success/Error Messages -->
+                <div id="successMessage" class="form-message success">
+                    Thank you for contacting us! We'll get back to you soon.
+                </div>
+                
+                <div id="errorMessage" class="form-message error">
+                    There was an error submitting your form. Please try again.
+                </div>
+                
+                <button type="submit" class="submit-button">Send Message</button>
+            </form>
+        </div>
+
+        <section class="contact-info">
+            <h2>Other Ways to Reach Us</h2>
+            <div class="contact-details">
+                <p><strong>Phone:</strong> <a href="tel:845-482-5222">(845) 482-5222</a></p>
+                <p><strong>Email:</strong> <a href="mailto:mullallytractor@gmail.com">mullallytractor@gmail.com</a></p>
+                <p><strong>Address:</strong> 4510 State Route 52, Jeffersonville, NY 12748</p>
+                <p><strong>Store Hours:</strong> Mon-Fri 8am-5pm, Sat 8am-12pm, Sun closed</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Mullally Tractor Sales. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Handle form submission
+        document.getElementById('contactForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const form = e.target;
+            const submitButton = form.querySelector('.submit-button');
+            const successMessage = document.getElementById('successMessage');
+            const errorMessage = document.getElementById('errorMessage');
+            
+            // Hide any previous messages
+            successMessage.style.display = 'none';
+            errorMessage.style.display = 'none';
+            
+            // Disable submit button
+            submitButton.disabled = true;
+            submitButton.textContent = 'Sending...';
+            
+            // Check if we're running from a local file (file:// protocol)
+            const isLocalFile = window.location.protocol === 'file:';
+            
+            if (isLocalFile) {
+                // For local files, use traditional form submission to avoid CORS
+                try {
+                    // Create a hidden iframe to submit the form without redirecting
+                    const iframe = document.createElement('iframe');
+                    iframe.style.display = 'none';
+                    iframe.name = 'hiddenFrame';
+                    document.body.appendChild(iframe);
+                    
+                    // Create a temporary form that submits to the iframe
+                    const tempForm = document.createElement('form');
+                    tempForm.method = 'POST';
+                    tempForm.action = form.action;
+                    tempForm.target = 'hiddenFrame';
+                    tempForm.style.display = 'none';
+                    
+                    // Copy all form data
+                    const formData = new FormData(form);
+                    for (let [key, value] of formData.entries()) {
+                        const input = document.createElement('input');
+                        input.type = 'hidden';
+                        input.name = key;
+                        input.value = value;
+                        tempForm.appendChild(input);
+                    }
+                    
+                    document.body.appendChild(tempForm);
+                    tempForm.submit();
+                    
+                    // Clean up after a short delay
+                    setTimeout(() => {
+                        document.body.removeChild(tempForm);
+                        document.body.removeChild(iframe);
+                    }, 1000);
+                    
+                    // Show success message
+                    successMessage.style.display = 'block';
+                    form.reset();
+                    successMessage.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    
+                } catch (error) {
+                    console.log('Local file submission failed:', error);
+                    errorMessage.style.display = 'block';
+                    errorMessage.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            } else {
+                // For HTTP/HTTPS served sites, use fetch API
+                try {
+                    const response = await fetch(form.action, {
+                        method: 'POST',
+                        body: new FormData(form)
+                    });
+                    
+                    if (response.ok) {
+                        // Show success message
+                        successMessage.style.display = 'block';
+                        // Reset form
+                        form.reset();
+                        // Scroll to message
+                        successMessage.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    } else {
+                        throw new Error('Form submission failed');
+                    }
+                } catch (error) {
+                    console.log('HTTP submission failed:', error);
+                    // Show error message
+                    errorMessage.style.display = 'block';
+                    errorMessage.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }
+            
+            // Re-enable submit button
+            submitButton.disabled = false;
+            submitButton.textContent = 'Send Message';
+        });
+    </script>
+</body>
+</html>
